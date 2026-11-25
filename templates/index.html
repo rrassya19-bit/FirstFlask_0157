@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>First Flask</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="kotak">
+        <h1>First Project Flask</h1>
+
+        <form method="post">
+            <label>Masukkan nama:</label>
+            <input type="text" name="nama">
+            <button>Kirim</button>
+        </form>
+
+        {% if pesan != "" %}
+            <p class="hasil">{{ pesan }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
