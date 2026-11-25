@@ -220,9 +220,13 @@ Dari tugas ini saya belajar bagaimana alur GET dan POST bekerja pada aplikasi Fl
 
 ## Identitas Pembuat
 
-- Nama: [isi nama]
-- NIM: [isi NIM]
-- Kelas: [isi kelas]
-- Mata kuliah: [isi mata kuliah]
-- Dosen pengampu: [isi nama dosen]
+- Nama: Ahmad Rassya Maulana
+- NIM: 20250140157
+- Kelas: D
+
+- Mata kuliah: Pemograman Multiplatfrom
+- Dosen pengampu: Cahya Damarjati, S.T. M. Eng., Ph.D.
+
+- Prodi: Teknologi Informasi
+- Fakultas: Teknik
 - Universitas: Universitas Muhammadiyah Yogyakarta
